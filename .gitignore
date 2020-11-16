@@ -1,0 +1,9 @@
+Tarea_Qflow.pdf
+layout
+synthesis
+*.sh
+*.log
+source/*.ys
+source/*.blif
+
+./*.sh ./*.log
